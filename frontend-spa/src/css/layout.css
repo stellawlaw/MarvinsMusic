@@ -22,9 +22,9 @@ header {
     grid-column-gap: 50px;
 }
 
-.about-button img {
+/* .about-button img {
     width: 15%;
-}
+} */
 
 .menu-button {
     justify-self: left;
@@ -67,8 +67,11 @@ header {
     width: 70px;
     border-radius: 5px;
 }
-
-.marvin {
+.marvin1 {
+    width: 60px;
+    justify-self: left;
+}
+.marvin2 {
     width: 60px;
     justify-self: right;
 }
